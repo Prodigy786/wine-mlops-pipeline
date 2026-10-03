@@ -1,6 +1,6 @@
 # Wine Cultivar Classification MLOps Pipeline
 
-[![MLOps CI Quality Gate Pipeline](https://github.com/OWNER/wine-mlops-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/wine-mlops-pipeline/actions)
+[![MLOps CI Quality Gate Pipeline](https://github.com/Prodigy786/wine-mlops-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/Prodigy786/wine-mlops-pipeline/actions)
 
 An end-to-end, reproducible Machine Learning Operations (MLOps) pipeline for chemical cultivar classification using `sklearn.datasets.load_wine` (178 samples, 13 features, 3 target classes).
 
