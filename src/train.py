@@ -76,7 +76,7 @@ def get_hyperparameter_grids() -> List[Dict[str, Any]]:
             "family": "RandomForestClassifier",
             "model_class": RandomForestClassifier,
             "params": {
-                "n_estimators": 150,
+                "n_estimators": 175,
                 "max_depth": None,
                 "min_samples_split": 2,
                 "random_state": 42,
